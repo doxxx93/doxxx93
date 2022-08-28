@@ -4,6 +4,4 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=doxxx93&show_icons=true)
-#<a href="https://opgc.me/#/users/doxxx93" target="_blank"><img src="https://api.opgc.me/githubs/users/doxxx93/tag/?theme=basic" /></a>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=doxxx93)](https://solved.ac/doxxx93/)
