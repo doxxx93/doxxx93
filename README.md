@@ -7,7 +7,7 @@ Rust backend engineer. Currently building [Order X](https://orderx.com/) (OEMS) 
 **Writing**
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes API Server Watch 메커니즘과 Informer 패턴](https://doxxx.dev/2026/03/07/k8s-watch-mechanism)
+- [Kubernetes API Server의 Watch 메커니즘과 Informer 패턴](https://doxxx.dev/2026/03/07/k8s-watch-mechanism)
 - [kube-rs 4개월 기여 기록](https://doxxx.dev/2026/02/20/kube-rs-contribution-journey)
 - [쿠버네티스 클러스터 구축, 아키텍처부터 네트워크까지](https://doxxx.dev/2026/01/05/the-weight-of-kubernetes-installation)
 - [컨테이너 기술의 이해, 커널부터 쿠버네티스까지](https://doxxx.dev/2025/02/01/from-linux-kernel-to-kubernetes)
