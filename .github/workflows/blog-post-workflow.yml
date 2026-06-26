@@ -1,0 +1,19 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Pull featured posts from doxxx.dev feed
+        uses: gautamkrishnar/blog-post-workflow@1.9.6
+        with:
+          feed_list: "https://doxxx.dev/rss.xml"
+          max_post_count: 5
