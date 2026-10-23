@@ -1,8 +1,8 @@
 # Doyul Kim
 
-Rust backend engineer. Currently building [Order X](https://orderx.com/) (OEMS) at Sun Labs.
+Rust backend engineer. Previously built market-data services and the external trading API for [Order X](https://orderx.com/) at Sun Labs.
 
-[kube-rs](https://github.com/kube-rs) Member, author of [kube-cel](https://github.com/kube-rs/kube-cel) — a CEL engine for Kubernetes. ([crates.io](https://crates.io/crates/kube-cel))
+[kube-rs](https://github.com/kube-rs) maintainer, author of [kube-cel](https://github.com/kube-rs/kube-cel), a CEL engine for Kubernetes. ([crates.io](https://crates.io/crates/kube-cel))
 
 **Writing**
 
